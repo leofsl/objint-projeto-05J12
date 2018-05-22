@@ -1,8 +1,11 @@
-# *Nome do Projeto*
+# *Munka*
 
 ## Ideia
 
-(*Faça uma breve descrição do problema que seu projeto irá resolver.*)
+Automação Residencial.
+
+Será realizado uma automação residencial que será controlada através das assistentes virtuais Amazon Alexa e/ou Apple Siri.
+
 
 ## Diagrama de implantação
 
