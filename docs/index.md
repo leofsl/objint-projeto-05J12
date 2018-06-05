@@ -9,13 +9,9 @@ Será realizado uma automação residencial que será controlada através das as
 
 ## Diagrama de implantação
 
-Faça um diagrama de implantação. Exemplo:
-
-![](implantacao.png)
+![](imp.png)
 
 
 ## Montagem do dispositivo
-
-Faça um diagrama de montagem do dispositivo. Exemplo:
 
 ![](montagem.png)
